@@ -1,0 +1,20 @@
+.center {
+text-align : center;
+}
+
+.italic{
+  text-decoration: italic;
+}
+
+.size-small{
+  width : 300px;
+  height: auto;
+}
+
+.red{
+  color: red;
+}
+
+.yellow{
+  background-color: yellow;
+}
